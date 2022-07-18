@@ -1,0 +1,6 @@
+Changes:
+
+[Added] 1 to 1 members chat
+[Added] Branding while live streaming from antMedia
+[Upgraded] Node/React and all packages.
+[Fixed] Around 22+ bug fixes

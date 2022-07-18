@@ -1,0 +1,16 @@
+Changes:
+
+[Added] Image Stories
+[Added] Video Stories
+[Added] Audio Stories
+[Added] Text with Background Stories
+[Added] Announcements in Admin
+[Added] Mass Notifications in Admin
+[Added] Auto Follow Channels in Admin
+[Added] Auto Follow Users in Admin
+[Added] Delete old Videos Setting in Admin
+[Added] Send Newsletter to Users from Admin
+[Added] Auto delete youtube,vimeo and dailymotion videos in Admin
+[Added] Auto Database and Script files Backups in Admin
+[Upgraded] Node/React and all packages.
+[Fixed] Around 20+ bug fixes

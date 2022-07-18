@@ -1,0 +1,5 @@
+Changes:
+
+[Added] Custom Member Subscription Plans.
+[Upgraded] Bootstrap v5.0.
+[Fixed] 10+ Important bugs.

@@ -1,0 +1,12 @@
+Changes:
+
+[Added] Stripe and Bank Transfer Payment Method.
+[Added] Google v3 Captcha.
+[Added] Twillio Phone OTP.
+[Added] Points System.
+[Added] Referral Points Earning.
+[Added] CDN support for images,css and js.
+[Added] Chat Ban User while Livestreaming.
+[Upgraded] Node/React and all packages.
+[Improvement] Speed Improvement.
+[Fixed] 15+ Important bugs.

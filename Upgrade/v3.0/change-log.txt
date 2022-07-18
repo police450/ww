@@ -1,0 +1,16 @@
+Changes:
+
+[Added] Scheduled Live Streaming using AntMedia
+[Added] Channel Videos import through YouTube 
+[Added] High Demanded Trending OTT theme 
+[Added] Movies & Web Series Integration 
+[Added] Movies & Web Series Import through TMDB
+[Added] Latest Header settings 
+[Added] User friendly Notifications
+[Added] Notification with Images
+[Added] Latest Email Notifications
+[Added] Supported RTL
+[Added] Latest Player implementation
+[Added] Clear cache feature  availability in Admin Panel
+[Upgraded] Node/React and all packages.
+[Fixed] Around 20+ bug fixes
